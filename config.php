@@ -6,7 +6,7 @@ return [
     'site' => [
         'title' => 'BEHIND THE CLASSES',
         'description' => 'A reliable online platform for SSC,HSC&Admission students of Bangladesh',
-        'image' => 'https://raw.githubusercontent.com/abusayed0206/abusayed0206/main/20211016_125139_0000.png',
+        'image' => 'default-share.png',
     ],
     'owner' => [
         'name' => 'Lutfor Rashid Sayed',

@@ -1,24 +1,25 @@
 <?php
 
 return [
-    'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'production' => true,
+    'baseUrl' => 'https://behindtheclasses.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'BEHIND THE CLASSES',
+        'description' => 'A reliable online platform for SSC,HSC&Admission students of Bangladesh',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Lutfor Rashid Sayed',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'twitter' => 'https://twitter.com/abusayed0206',
+        'github' => 'https://github.com/abusayed0206',
+        'website' => 'https://abusayed.dev', 
     ],
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => '',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
             'cloudName' => 'artisanstatic',

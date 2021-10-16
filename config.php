@@ -22,8 +22,8 @@ return [
         'disqus' => 'behindtheclasses',
         'formcarry' => 'LzZGFFXfPTi',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'lrsayed',
+            'apiKey' => '964762296769419',
         ],
     ],
     'collections' => [
